@@ -11,7 +11,7 @@ end
 
 -- GUI
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "CustomCheatHub"
+ScreenGui.Name = "meow hub"
 ScreenGui.ResetOnSpawn = false
 ScreenGui.Parent = PlayerGui
 
@@ -62,7 +62,7 @@ Title.Size = UDim2.new(1, 0, 0, 45)
 Title.BackgroundColor3 = Color3.fromRGB(25, 25, 30)
 Title.BackgroundTransparency = 0.4
 Title.BorderSizePixel = 0
-Title.Text = "Custom Hub | Pro"
+Title.Text = "meow hub"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextSize = 15
 Title.Font = Enum.Font.GothamBold
